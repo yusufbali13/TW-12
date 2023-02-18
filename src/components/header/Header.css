@@ -1,0 +1,10 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  background-color: rgb(204, 163, 112);
+  height: 100%;
+  padding-top: 3rem;
+}
