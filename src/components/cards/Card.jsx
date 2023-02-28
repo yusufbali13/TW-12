@@ -8,7 +8,7 @@ const Card = () => {
     <div className="cont">
       <div className="container">
         {data.map((item) => {
-          const { id, title, desc, image } = item;
+          const { title, desc, image } = item;
           return (
             <div className="card">
               <h1 className="title">{title}</h1>
